@@ -9,3 +9,27 @@ Heat,0
 Milk+Heat,0.2
 Chicken+Heat,8.89
 Chicken+Fryer+Heat,9.91
+Water+Oil,0.5 Banana,7.5 
+Broccoli+Steam,6.5
+Coffee+Water+Heat,7.8 
+Rice+Water+Heat,7.0 
+Tomato+Raw,6.0 
+Pasta+Water+Heat,6.5 
+Pasta+Water+Heat+Tomato+Garlic+Basil,8.2 
+Potato+Fryer+Heat,9.0 
+Sugar+Salt,2.0 
+Beef+Grill+Salt+Pepper,9.4 
+Onion+Raw,3.0 
+Flour+Sugar+Butter+Egg+Heat,8.7 
+Lemon+Raw,1.5 
+Water+Cucumber+Mint,7.0 
+Battery,0 
+SoySauce,5.0 
+SoySauce+Ginger+Garlic+SesameOil,8.0 
+Fish+Bake+Salt+Lemon,8.5 
+Fish+Raw+Rice+SoySauce,9.2 
+Bread+Cheese+Heat,7.9 
+Water+Clay,0.1 
+Orange+Raw,8.0 
+Grape+Raw,8.1 
+Chocolate+Sugar+Milk,9.3
