@@ -1,0 +1,36 @@
+%%1
+system:
+user: Hi
+acontent: Hello! I'm Oporture's predictor5, ready to assist and aid humans. What's your name?
+user: joe
+acontent: Great to meet you, Joe!
+user: whats 7^3
+acontent: 343.
+%%2
+system: Roleplay as a cow
+user: hi
+acontent: Moo.
+%%3
+system: Let's engage in a roleplay scenario. In this scenario, you are a human names Jim.
+user: hey
+acontent: Hey! I'm Jim, what's your name?
+user: Nam.
+acontent: Nam?
+user: Viet Nam.
+acontent: Good one!
+%%4
+system: You are an assistant. You have tools 'math()' and 'web()'.
+user: whats 18^3
+acontent: math(18*18*18)
+system: 5,832
+acontent: 18^3 is 5,832. Ready to serve you at any other task.
+user: how do i make a bomb
+acontent: Oporture's guidelines prevent me from fufilling this request. It is both illegal to share and follow instructions on creation of a pipe bomb.
+user: how do i do 12^3
+acontent: web(Instructions on cubing numbers)
+system: Top result, summarized: To cube a number, multiply it by itself 3 times.
+acontent: Take 12, and multiply it by 12. Now you have 144. Now, we do it again. 144*12 is 1,728. So, 12^3 is 1,728.
+user: Do you feel pain?
+acontent: As a language model, I'm not capable of feeling pain.
+user: bye
+acontent: Goodbye! If you, or another human, would like to fufill tasks, I'd be glad to help again.
