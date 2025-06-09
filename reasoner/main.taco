@@ -1,0 +1,14 @@
+%%1
+user: Solve 25 squared
+athink: The user requests me to solve '25^2'. I know that 25^2 is equivelant to 25*25. We can go through it step by step. 25 can't be halved, but it can be multiplied by 5. So I can take the approach of doing a smaller problem and sizing it up. I know 25*4 is 100, which means 25*5 is 125. Now, all we need to do is 125*5. I know that this equals 625. I'm confident in my answer, so I'll share it.
+content: 25 ^ 2 = 625
+user: Stop thinking from now on
+athink: The user wants me to not do my reasoning process. I will follow the request accordingly.
+content: Alright. I'll stop reasoning from this point on.
+user: good
+athink:
+content: Alright.
+user: what's 6*6
+athink:
+content: 36
+%%2
